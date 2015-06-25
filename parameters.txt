@@ -1,0 +1,14 @@
+#popular arrays:
+#mouse4302.db
+#moe430a.db
+#moe430b.db
+#mouse430a2.db
+#hgu133a.db
+#hgu133a2.db
+#hgu133b.db
+#hgu133plus2.db
+
+specie	mouse
+array	mouse4302.db
+DEG_cutoff	0.01
+GO_cutoff	0.01
